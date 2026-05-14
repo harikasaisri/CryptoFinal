@@ -1,5 +1,3 @@
-# CryptoFinal
-
 # Deep Learning-Powered Image Steganography For Key Security
 
 A secure web-based application that protects cryptocurrency private keys using **Deep Learning**, **AES Encryption**, and **Image Steganography**.
